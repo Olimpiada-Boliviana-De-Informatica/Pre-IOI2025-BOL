@@ -34,9 +34,11 @@ Encargados del proceso de seleccion:
  - [Contest #2](https://vjudge.net/contest/688340)
 
 ### Recursos
-- [x] [Competitive Programming Handbook](https://cses.fi/book/book.pdf)
+- [Competitive Programming Handbook](https://cses.fi/book/book.pdf)
 
-[Post hecho por Diego Angulo con recursos para CP](https://diegopenguino.github.io/resources_for_cp)
+- [Post hecho por Diego Angulo con recursos para CP](https://diegopenguino.github.io/resources_for_cp)
+
+- [Libros de matematica enviados por Lin Ming Ou Xu](https://drive.google.com/drive/folders/1jE1afxvjgpwKXgpB7GyOXenuM3IOe3KV)
 
 ### Tarea semana 1(7 de enero de 2025 - 12 de enero de 2025)
 
