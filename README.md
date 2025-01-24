@@ -26,6 +26,11 @@ Encargados del proceso de seleccion:
 
 </details>
 
+### CONTESTS OBLIGATORIOS:
+ - [Contest #1](https://vjudge.net/contest/684235)
+ - [Contest de los IOI](https://vjudge.net/contest/685317)
+ - [Contest #2](https://vjudge.net/contest/688340)
+
 ### Recursos
 - [x] [Competitive Programming Handbook](https://cses.fi/book/book.pdf)
 
@@ -33,5 +38,5 @@ Encargados del proceso de seleccion:
 
 ### Tarea semana 1(7 de enero de 2025 - 12 de enero de 2025)
 
-- [ ] Leer el capítulo 1 del libro Competitive Programming 4 de Steven Halim.
-- [ ] Resolver todos los problemas de [el contest de Vjudge](https://vjudge.net/contest/684235#overview)
+- Leer el capítulo 1 del libro Competitive Programming 4 de Steven Halim.
+- Resolver todos los problemas de [el contest de Vjudge](https://vjudge.net/contest/684235#overview)
