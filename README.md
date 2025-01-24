@@ -13,6 +13,8 @@ Canal de anuncios: [LINK](https://t.me/+LagfqmNDfhZkMDgx)
 
 Carpeta con libros: [LINK](https://drive.google.com/drive/folders/1iaIJkHl2-uVrGVu8aCY89m5Z2oyUfIBZ?usp=sharing)
 
+Ranking: [LINK](https://docs.google.com/spreadsheets/d/12VgR5jwLqy_h3nkK0L2z68H1demF7SMC/edit?gid=123253848#gid=123253848)
+
 <details>
 <summary> <b>Informacion importante:</b> </summary>
 
