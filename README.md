@@ -38,7 +38,7 @@ Encargados del proceso de seleccion:
 
 - [Post hecho por Diego Angulo con recursos para CP](https://diegopenguino.github.io/resources_for_cp)
 
-- [Libros de matematica enviados por Lin Ming Ou Xu](https://drive.google.com/drive/folders/1jE1afxvjgpwKXgpB7GyOXenuM3IOe3KV)
+- [Libros de matematica enviados por Lin Ming Ou Xu](https://drive.google.com/drive/folders/1vAVGWG3rcuuq1CH7DWURgSJByjr0dY8L)
 
 ### Tarea semana 1(7 de enero de 2025 - 12 de enero de 2025)
 
